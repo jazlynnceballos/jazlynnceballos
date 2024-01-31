@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to maintain many medical systems that store data in SQL format.
 - 💞️ I’m looking to collaborate on developing a more user-friendly CRM! 
 - 📫 You can reach me at my email jazlynn1c9@gmail.com or message me on LinkedIn www.linkedin.com/in/jazlynnceballos
-- - 😄 Pronouns: She/Her 
+- 😄 Pronouns: She/Her 
 
 <!---
 jazlynnceballos/jazlynnceballos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
